@@ -1,0 +1,13 @@
+NAME:		Blaster GBE Mk2
+
+--
+
+TYPE: 		Handgun-like high-tech energy weapon with an electronic component underneath. Theres a small digital display behind.
+
+EFFECT: 	Graviton Beam Emitter Mark 2. A self-sufficient but unbelievably power hungry superweapon in a pistol form. Fires an intense graviton beam that forcibly displaces any matter in its path and causes any said displaced matter to compress outward so suddenly and with such pressure that it creates a miniature nuclear fusion event at every point it passes through. Infact, the beam itself usually never actually hits anything before it dissapates on its own after travelling for a hundred kilometers. This is because the gravity aura that is generated around the beam as it flies by is roughly 3 meters in diameter is so impossibly powerful that it pre-emptively wipes out everything before the core beam itself manages to collide with anything. The GBE's output can be configured to fire at a lower power so that less energy is used per shot. The GBE can be fired rapidly and can be connected to an external power source via cable to facilite more shots or more powerful shots. Regardless of power output, the recoil of the GBE is excessive to the point where it can injure or rip off the arm of the user if they're too weak to handle it. It is also very loud and its impossible to silence it, so it is completely unsuitable for stealth.
+
+INTENT:		The final ultimate weapon of any wanderer or adventurer as it can outright kill or destroy anything in the universe in a single shot with no possible defence against it. It could even ravage an entire city or a mountain with a few spreaded out shots. It is exceedingly complicated, expensive, demanding and difficult to manufacture - let alone to supply adequately with power which requires specialized super reactors or massive power collectors in itself - so this weapon is super rare.
+
+
+==
+==

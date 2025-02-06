@@ -1,0 +1,93 @@
+This pack is part of the...
+
+Offworld Mercenary Arsenal (OMA) - series.
+
+==
+
+WHAT IS THE OMA SERIES:
+
+It is a loose collection of guns, items, devices, grenades, ammo and tools - available both as 2D pixel art sprites and as 3D models.
+
+Use the assets in your commercial or personal projects; be it games, animations, illustrations or whatever else.
+
+
+
+==
+
+PACKAGE CONTENTS:
+
+Commonly included files are:
+2D .PNG pixel art sprite image
+2D .PNG large upscaled image
+2D .SVG vector image
+3D .OBJ+.MTL model
+3D .FBX model
+3D .Kenshape source file*
+3D .VOX voxel model (EXPERIMENTAL)**
+TXT Weapon specific description
+TXT General OMA info file
+
+A pack may include one or more objects, main one usually featuring the above files.
+
+
+*.Kenshape file can be opened with the fantastic Kenney Shape program. This allows you to modify the model easily and re-export it into different formats.
+Get it here: https://kenney.itch.io/kenney-shape
+
+Note: original exported models use "Texture: None" setting within Kenney Shape. Contrary to how it sounds like it would export the models as a textureless grey model, it does actually include colors too, so use that. "Atlas" and "UV Unwrapped" result in different, usually inaccurate results.
+
+**The previews you see show OBJ/FBX models which are usual polygon/triangle based meshed. They can be used pretty much in any standard 3D application, like Unity, Blender and so on. However a Voxel file is entirely different will look blocky and wider compared to the regular models, hence that EXPERIMENTAL tag.
+You can open VOX files with MagicaVoxel or similar: https://ephtracy.github.io/
+
+
+
+==
+
+LORE:
+
+In a far spacefaring future there be mercenaries, freelancers, contractors and adventurers that go to different places in the galaxy to shoot various monsters, robots and vehicles that threaten the peace of the galaxy.
+
+OMA is a general umbrella term to describe the entire collective of various weapons, tools and devices that these people may use during their adventures - regardless of what origin or intended purpose the gun originally had. Usually someone got it somewhere, somehow, and decided to use it because they liked it or because it was the only thing available to them.
+
+The lore and weapon descriptions are intentionally vague so that you can inject your own lore into these guns. I merely give a suggestion as to what each piece is and what use-case it could have, but you are encouraged to replace all that info with whatever weapon stats and description as you wish.
+
+
+
+==
+
+LICENCE:
+
+Use the files freely in your commercial or personal projects as much as you want. 
+
+Credits would help me out in gaining more customers so I can afford to make more guns.
+If you do give credit, 'Reactorcore Games' or 'www.reactorcoregames.com' would be most excellent. Thank you.
+
+Ideally do not repackage, redistribute, resell the assets or do NFTs with them. That would be uncool.
+
+
+
+==
+
+SUPPORT / CONTACT / INQUIRIES:
+
+reactorcoregames@gmail.com
+
+++ Reactorcore Games ++
+
++ Pixel Art and Advanced Game Design +
+
+
+
+==
+
+LINKS:
+
+HOME - www.reactorcoregames.com
+ITCH.IO - https://reactorcore.itch.io/
+DEVIANTART - https://www.deviantart.com/reactorcore3/
+LINKTREE - https://linktr.ee/reactorcore
+
+
+
+==
+
+Made with love using Jasc Paint Shop Pro 9, Kenney Shape and Notepad++.
